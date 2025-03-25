@@ -31,7 +31,7 @@
 
 ![Screenshot 1](static/07-Winner.png)
 
-## Bölüm 2: Kullanım
+## Bölüm 2: Kazanılan para hakkında iyi yerlerde kullanılır
 
 ![Screenshot 1](static/08-Loser.png)
 Her sayfayı bir başlıkla belirleyip, sayfanın alt kısmında **sonraki sayfa** bağlantıları ekleyerek sayfalama işlevselliği sağlayabilirsiniz.

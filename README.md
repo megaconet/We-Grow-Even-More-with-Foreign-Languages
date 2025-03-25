@@ -7,8 +7,8 @@
   </ul>
 </nav>
 
-![Screenshot 1](static/01 - Trackers.png)
-![Screenshot 1](static/02 - Most Collaborative Queries.png)
+![Screenshot 1](static/01-Trackers.png)
+![Screenshot 1](static/02-MostCollaborativeQueries.png)
 
 
 # Sayfa 2: Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir

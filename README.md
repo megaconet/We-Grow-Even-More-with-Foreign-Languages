@@ -16,10 +16,10 @@
 [Sonraki Bölüm: Detaylar](#bölüm-1-giriş)
 [Sonraki Bölüm: Detaylar](#bölüm-2-detaylar)
 
-
-
-
 ![Screenshot 1](static/04-Grafi2000.png)
+
+
+# Sayfa 3: En basit şekilde üstlü çizilen plan çizgileri (ön+arka) "Vakit" hakkında bilgi veren referans çizgileri olarak kabul edilecektir
 ![Screenshot 1](static/05-Lobby.png)
 ![Screenshot 1](static/06-Stats.png)
 ![Screenshot 1](static/selectbox.jpg)

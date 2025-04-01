@@ -23,7 +23,7 @@
 ![Screenshot 1](static/05-Lobby.png)
 ![Screenshot 1](static/06-Stats.png)
 ![Screenshot 1](static/selectbox.jpg)
-
+![Screenshot 1](static/10-gridView.png)
 
 
 

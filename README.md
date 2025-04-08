@@ -20,7 +20,7 @@
 Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir
 ![Screenshot 1](static/06-MostCollaborativeQueries.png)
 
-
+![Screenshot 1](static/07-Start.png)
 
 # Sayfa 4: Başlama vaktindeki yarış pozisyonu korunurken, tünel tamamlanınca dengeler bozulur
 [Sonraki Bölüm: Detaylar](#bölüm-1-giriş)

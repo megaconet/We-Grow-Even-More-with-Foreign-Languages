@@ -1,15 +1,15 @@
+# Sayfa 1: Kullanıcı Giriş Modülü
+[Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
+![Screenshot 1](static/03-Login.png)
+
+
+
 # Sayfa 1: Temel Özellikler
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
-<nav>
-  <ul>
-    <li><a href="#">Bağışlardan kazanılan kazanç ile yeni domaine geçiş yapmak ( reklam )</a></li>
-    <li><a href="#">Yeni geçilen domain için İngilizce çalışma konuları belirli bölümlerden bölünerek paylaşıma sunulur</a></li>
-  </ul>
-</nav>
+
 
 ![Screenshot 1](static/01-Trackers.png)
 ![Screenshot 1](static/02-MostCollaborativeQueries.png)
-![Screenshot 1](static/03-Login.png)
 
 
 # Sayfa 2: Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir

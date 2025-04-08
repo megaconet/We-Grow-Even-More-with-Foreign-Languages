@@ -13,6 +13,7 @@
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
 
 ![Screenshot 1](static/04-Grafi2000.png)
+![Screenshot 1](static/selectbox.jpg)
 Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir
 ![Screenshot 1](static/02-MostCollaborativeQueries.png)
 
@@ -24,7 +25,6 @@
 
 
 ![Screenshot 1](static/06-Stats.png)
-![Screenshot 1](static/selectbox.jpg)
 ![Screenshot 1](static/10-gridView.png)
 
 

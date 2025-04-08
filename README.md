@@ -2,6 +2,12 @@
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
 ![Screenshot 1](static/03-Login.png)
 
+# Sayfa 1: Bekleme Salonu
+[Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
+
+
+# Sayfa 1: Yarış Davetiyesi
+[Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
 
 
 # Sayfa 2: Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir

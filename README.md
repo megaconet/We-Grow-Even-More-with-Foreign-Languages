@@ -15,7 +15,7 @@
 ![Screenshot 1](static/04-Grafi2000.png)
 ![Screenshot 1](static/selectbox.jpg)
 Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir
-![Screenshot 1](static/02-MostCollaborativeQueries.png)
+![Screenshot 1](static/05-MostCollaborativeQueries.png)
 
 
 

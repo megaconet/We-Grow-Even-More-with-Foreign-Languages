@@ -7,7 +7,7 @@
 
 ![Screenshot 1](static/02-Lobby.png)
 
-![Screenshot 1](static/01-Trackers.png)
+![Screenshot 1](static/03-Trackers.png)
 
 # Sayfa 3: Yarış Davetiyesi
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)

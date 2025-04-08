@@ -7,6 +7,7 @@
 # Sayfa 1: Temel Özellikler
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
 
+![Screenshot 1](static/04-Grafi2000.png)
 
 ![Screenshot 1](static/01-Trackers.png)
 ![Screenshot 1](static/02-MostCollaborativeQueries.png)
@@ -16,7 +17,7 @@
 [Sonraki Bölüm: Detaylar](#bölüm-1-giriş)
 [Sonraki Bölüm: Detaylar](#bölüm-2-detaylar)
 
-![Screenshot 1](static/04-Grafi2000.png)
+
 
 
 # Sayfa 3: En basit şekilde üstlü çizilen plan çizgileri (ön+arka) "Vakit" hakkında bilgi veren referans çizgileri olarak kabul edilecektir

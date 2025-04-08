@@ -19,7 +19,7 @@
 
 
 
-# Sayfa 4: En basit şekilde üstlü çizilen plan çizgileri (ön+arka) "Vakit" hakkında bilgi veren referans çizgileri olarak kabul edilecektir
+# Sayfa 4: Başlama vaktindeki yarış pozisyonu korunurken, tünel tamamlanınca dengeler bozulur
 [Sonraki Bölüm: Detaylar](#bölüm-1-giriş)
 [Sonraki Bölüm: Detaylar](#bölüm-2-detaylar)
 
@@ -28,12 +28,14 @@
 ![Screenshot 1](static/07-gridView.png)
 
 
+# Sayfa 5: Tünel hareketi 2kavis ile kazanan belli olur, 1ortalama ile finish anı yaşanır
+
 
 ## Bölüm 1: Seneler sonra yeni bir proje başlatılacağı zaman  "Gerçek zamanlı depolama" hakkında araştırma yapılır
 
 ![Screenshot 1](static/08-Winner.png)
 
-## Bölüm 2: Kazanılan para hakkında iyi yerlerde kullanılır
+## Bölüm 2: 3D Unity yapılacak olanların tek sebebi kamera hareketleri ve tünel dikeyleşmesidir
 
 ![Screenshot 1](static/09-Loser.png)
 Her sayfayı bir başlıkla belirleyip, sayfanın alt kısmında **sonraki sayfa** bağlantıları ekleyerek sayfalama işlevselliği sağlayabilirsiniz.

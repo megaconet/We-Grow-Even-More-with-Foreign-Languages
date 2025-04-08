@@ -2,31 +2,23 @@
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
 ![Screenshot 1](static/03-Login.png)
 
-# Sayfa 1: Bekleme Salonu
-[Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
-
-
-# Sayfa 1: Yarış Davetiyesi
-[Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
-
-
-# Sayfa 2: Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir
+# Sayfa 2: Bekleme Salonu
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
 
 ![Screenshot 1](static/04-Grafi2000.png)
-
 ![Screenshot 1](static/01-Trackers.png)
+
+# Sayfa 3: Yarış Davetiyesi
+[Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
+Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir
 ![Screenshot 1](static/02-MostCollaborativeQueries.png)
 
 
 
+# Sayfa 4: En basit şekilde üstlü çizilen plan çizgileri (ön+arka) "Vakit" hakkında bilgi veren referans çizgileri olarak kabul edilecektir
 [Sonraki Bölüm: Detaylar](#bölüm-1-giriş)
 [Sonraki Bölüm: Detaylar](#bölüm-2-detaylar)
 
-
-
-
-# Sayfa 3: En basit şekilde üstlü çizilen plan çizgileri (ön+arka) "Vakit" hakkında bilgi veren referans çizgileri olarak kabul edilecektir
 ![Screenshot 1](static/05-Lobby.png)
 ![Screenshot 1](static/06-Stats.png)
 ![Screenshot 1](static/selectbox.jpg)

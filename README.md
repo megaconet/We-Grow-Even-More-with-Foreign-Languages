@@ -1,6 +1,6 @@
 # Sayfa 1: Kullanıcı Giriş Modülü
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
-![Screenshot 1](static/03-Login.png)
+![Screenshot 1](static/01-Login.png)
 
 # Sayfa 2: Bekleme Salonu
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)

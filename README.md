@@ -5,7 +5,7 @@
 # Sayfa 2: Bekleme Salonu
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
 
-![Screenshot 1](static/05-Lobby.png)
+![Screenshot 1](static/02-Lobby.png)
 
 ![Screenshot 1](static/01-Trackers.png)
 

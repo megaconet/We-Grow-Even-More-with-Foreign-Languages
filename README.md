@@ -9,10 +9,13 @@
 
 ![Screenshot 1](static/03-Trackers.png)
 
-# Sayfa 3: Yarış Davetiyesi
+# Sayfa 3: ID-CHECK
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
 
 ![Screenshot 1](static/04-Grafi2000.png)
+
+# Sayfa 3: Yarış Davetiyesi
+![Screenshot 1](static/05-RaceInvite.png)
 ![Screenshot 1](static/selectbox.jpg)
 Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir
 ![Screenshot 1](static/05-MostCollaborativeQueries.png)

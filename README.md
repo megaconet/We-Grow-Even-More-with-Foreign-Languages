@@ -5,11 +5,14 @@
 # Sayfa 2: Bekleme Salonu
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
 
-![Screenshot 1](static/04-Grafi2000.png)
+![Screenshot 1](static/05-Lobby.png)
+
 ![Screenshot 1](static/01-Trackers.png)
 
 # Sayfa 3: Yarış Davetiyesi
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
+
+![Screenshot 1](static/04-Grafi2000.png)
 Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir
 ![Screenshot 1](static/02-MostCollaborativeQueries.png)
 
@@ -19,7 +22,7 @@
 [Sonraki Bölüm: Detaylar](#bölüm-1-giriş)
 [Sonraki Bölüm: Detaylar](#bölüm-2-detaylar)
 
-![Screenshot 1](static/05-Lobby.png)
+
 ![Screenshot 1](static/06-Stats.png)
 ![Screenshot 1](static/selectbox.jpg)
 ![Screenshot 1](static/10-gridView.png)

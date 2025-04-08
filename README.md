@@ -27,24 +27,24 @@
 [Sonraki Bölüm: Detaylar](#bölüm-2-detaylar)
 
 
-![Screenshot 1](static/06-Stats.png)
-![Screenshot 1](static/07-gridView.png)
+![Screenshot 1](static/09-Stats.png)
+![Screenshot 1](static/10-gridView.png)
 
 
 # Sayfa 5: Tünel hareketi 2kavis ile kazanan belli olur, 1ortalama ile finish anı yaşanır
 ![Screenshot 1](static/tunnel.png)
 
-![Screenshot 1](static/08-Finish.png)
+![Screenshot 1](static/11-Finish.png)
 
 ## Bölüm 1: Seneler sonra yeni bir proje başlatılacağı zaman  "Gerçek zamanlı depolama" hakkında araştırma yapılır
 
-![Screenshot 1](static/08-Winner.png)
+![Screenshot 1](static/12-Winner.png)
 
 ## Bölüm 2: 3D Unity yapılacak olanların tek sebebi kamera hareketleri ve tünel dikeyleşmesidir
 
-![Screenshot 1](static/09-Loser.png)
+![Screenshot 1](static/13-Loser.png)
 Her sayfayı bir başlıkla belirleyip, sayfanın alt kısmında **sonraki sayfa** bağlantıları ekleyerek sayfalama işlevselliği sağlayabilirsiniz.
-![Screenshot 1](static/10-SearchResult.png)
+![Screenshot 1](static/14-SearchResult.png)
 [Önceki Sayfa](sayfa1.md) | [Sonraki Sayfa](sayfa3.md)
 
 [Anasayfa](https://github.com/megaconet/Gitbook-README-Book/)

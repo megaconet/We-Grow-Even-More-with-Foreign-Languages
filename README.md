@@ -29,7 +29,7 @@
 
 
 # Sayfa 5: Tünel hareketi 2kavis ile kazanan belli olur, 1ortalama ile finish anı yaşanır
-
+![Screenshot 1](static/tunnel.png)
 
 ## Bölüm 1: Seneler sonra yeni bir proje başlatılacağı zaman  "Gerçek zamanlı depolama" hakkında araştırma yapılır
 

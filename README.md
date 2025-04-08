@@ -4,7 +4,7 @@
 
 
 
-# Sayfa 1: Temel Özellikler
+# Sayfa 2: Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir
 [Sonraki Sayfa: Orta Seviye](#sayfa-2-orta-seviye)
 
 ![Screenshot 1](static/04-Grafi2000.png)
@@ -13,7 +13,7 @@
 ![Screenshot 1](static/02-MostCollaborativeQueries.png)
 
 
-# Sayfa 2: Üretilen prototiplerde kelime ağacı örneği oyun grafikleridir
+
 [Sonraki Bölüm: Detaylar](#bölüm-1-giriş)
 [Sonraki Bölüm: Detaylar](#bölüm-2-detaylar)
 
